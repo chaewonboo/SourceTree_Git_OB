@@ -2,12 +2,8 @@
 <html>
   <head>
     <meta charset="utf-8">
-<<<<<<< HEAD
     //불확정적인 작업.
     <title></title>
-=======
-    <title>GIT 수업 불확정적인 작업</title>
->>>>>>> 실험
   </head>
   <body>
     //hello world!
@@ -22,7 +18,7 @@
       <li>버전</li>
       <li>Branch</li>
       <li>충돌</li>
-      <li>충돌 해결</li>
+      <li>원격 저장소</li>
     </ul>
     <script>
 

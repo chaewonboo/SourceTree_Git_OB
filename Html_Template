@@ -12,6 +12,7 @@
     </header>
     //안정적인 작업.
     <ul>
+      <li>Git</li>
       <li>저장소</li>
       <li>버전</li>
     </ul>

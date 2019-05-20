@@ -13,6 +13,7 @@
     </header>
     //안정적인 작업.
     <ul>
+      <li>sync.ob</li>
       <li>Git</li>
       <li>안정적</li>
       <li>저장소</li>

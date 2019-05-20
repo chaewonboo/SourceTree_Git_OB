@@ -25,6 +25,7 @@
       <li>동기화 push2</li>
       <li>push.notCL</li>
       <li>pull.clone</li>
+      <li>conflict.notCL</li>
       //wow!
     </ul>
     <script>

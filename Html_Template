@@ -25,6 +25,7 @@
       <li>push.notCL</li>
       <li>pull.clone</li>
       //wow!
+      <li>conflict.clone</li>
     </ul>
     <script>
 
